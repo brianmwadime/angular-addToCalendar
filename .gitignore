@@ -4,4 +4,4 @@
 /libpeerconnection.log
 /unit-results.xml
 /e2e-results.xml
-.DS_Store
+*.DS_Store
