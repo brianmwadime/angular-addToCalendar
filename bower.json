@@ -1,0 +1,20 @@
+{
+  "name": "angular-addtocalendar",
+  "version": "1.0.0",
+  "main": "dist/angular-addtocalendar.js",
+  "ignore": [
+    "**/.*",
+    "src",
+    "node_modules",
+    "bower_components",
+    "test",
+    "Gruntfile.js"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "add-to-calendar-buttons": "https://github.com/carlsednaoui/add-to-calendar-buttons.git"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.4.0"
+  }
+}
