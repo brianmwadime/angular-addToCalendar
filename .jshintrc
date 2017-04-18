@@ -12,7 +12,7 @@
     "node": true,
     "quotmark": true,
     "trailing": true,
-    "undef": true,
+    // "undef": true,
     "unused": true,
     "predef": [
         "angular"
